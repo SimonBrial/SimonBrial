@@ -1,3 +1,4 @@
+#Hi I'm Simon 😎
 # 💫 About Me:
 - I am currently developing 2 projects for my portfolio, Github Job and an e-commerce application<br>- I am willing to collaborate in the development of the frontend for projects of any kind, in addition to improving my soft skills.<br>- I am currently learning and strengthening my knowledge in the development of REST APIs with node.js and express, as well as SQL and noSQL base management to be implemented in the applications I develop.<br>-I define myself as someone creative, willing to face any situation that arises in order to reach a solution.<br>-Lover of video games, physical training and video games.
 
